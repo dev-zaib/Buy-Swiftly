@@ -16,7 +16,7 @@ Building a ecommerce store to showcase frontend and backend development skills i
 
 ## Running in dev environment
 
-1.  `cd YOUR_APPLICATION`
+1.  `cd Buy Swiftly`
 2.  `npm install`
 3.  `npm start`
 
